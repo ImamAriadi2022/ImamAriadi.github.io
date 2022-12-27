@@ -1,0 +1,34 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-size: 100%;
+    background-color: #ffebcd;
+}
+
+.body {
+    background-color: #ffebcd;
+}
+
+#portfolio {
+    background-size: 100%;
+    background-color: #ffebcd;
+}
+
+.about {
+    background-color: white;
+}
+
+.contact {
+    background-color: white;
+}
+
+.svg {
+    background-size: 2px;
+}
+
+a {
+    color: black;
+}
+
+section {
+    padding-top: 5rem;
+}
